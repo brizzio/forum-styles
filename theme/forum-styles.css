@@ -105,7 +105,7 @@ a:active {
 .inventia-dashboard {
 	position: relative;
 	min-height: 230px;
-	background: url("{T_THEME_PATH}/images/dashboard.jpg") center center no-repeat;
+	background: url("./images/dashboard.jpg") center center no-repeat;
 	background-size: cover;
 }
 
